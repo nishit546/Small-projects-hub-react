@@ -1,10 +1,33 @@
-# Small-projects-hub-react
+# Small Projects Hub React
 
-React + Vite
+A curated collection of small games and utilities built with React, Vite, and Framer Motion, featuring smooth animations and a premium glassmorphism interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🎮 Game Zone
 
-Currently, two official plugins are available:
+- **Click Counter**: Test your clicking speed and endurance.
+- **Color Guessing**: Challenge your eyes to guess the right HEX code.
+- **Whack-A-Mole**: Whack the moles as fast as you can to earn points.
+- **Typing Speed**: Check your WPM words per minute typing test.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Side Projects
+
+- **Password Generator**: Create strong, secure random passwords instantly.
+- **Tip Calculator**: Calculate tips and split bills effortlessly.
+- **To-Do List**: Organize your tasks and boost productivity.
+- **News App**: Stay updated with the latest headlines.
+- **Weather App**: Check real-time weather updates and forecasts.
+
+## 🚀 Tech Stack
+
+- React
+- Vite
+- Framer Motion
+- Vanilla CSS
+
+## 💻 Running Locally
+
+1. Clone the repository
+2. Run `npm install` to install dependencies
+3. Run `npm run dev` to start the local development server
+
+Made with ❤️ by Nishit Doshi
